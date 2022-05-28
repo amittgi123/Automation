@@ -5,6 +5,7 @@ public class CICDpipeline {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Learing CI / CD program file for data repo");
+		System.out.println("Program modified");
 	}
 
 }
